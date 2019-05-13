@@ -1,0 +1,4 @@
+[submodule "pynfg"]
+	path = pynfg
+	url = git@github.com:rytse/pynfg.git
+	branch = master
