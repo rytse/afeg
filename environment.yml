@@ -1,0 +1,14 @@
+name: afeg
+channels:
+    - anaconda
+    - conda-forge
+dependencies:
+    - python=3.6
+    - jupyter
+    - conda-forge::jupyterlab
+    - numpy
+    - scipy
+    - matplotlib
+    - pandas
+    - scikit-learn
+    - anaconda::networkx
